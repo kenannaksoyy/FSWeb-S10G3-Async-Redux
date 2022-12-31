@@ -2,3 +2,22 @@
 body {
 	background: #f5f5f5;
 }
+.App{
+	background-color: orange;
+	width: 1024px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 15px;
+}
+.bored-list,.dog-home-cont{
+	background-color: antiquewhite;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.dog-home-cont{
+	background-color: aqua;
+}
+.dog-img{
+	height: 200px;
+    width: 300px; 
+}
